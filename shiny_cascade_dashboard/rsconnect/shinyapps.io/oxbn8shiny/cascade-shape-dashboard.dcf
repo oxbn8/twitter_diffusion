@@ -1,0 +1,10 @@
+name: cascade-shape-dashboard
+title: Cascade Shape Dashboard
+username: oxbn8shiny
+account: oxbn8shiny
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16990841
+bundleId: 11764583
+url: https://oxbn8shiny.shinyapps.io/cascade-shape-dashboard/
+version: 1

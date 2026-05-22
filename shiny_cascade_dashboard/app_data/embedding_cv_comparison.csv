@@ -1,0 +1,3 @@
+"model","rows","folds","accuracy_mean","auc_mean","spec"
+"avg_interaction + avg_interest_similarity + avg_structural_redundancy + avg_number_exposures + mean_reciprocity + mean_retweeting_inertia + log_root_followers + log_time_span + log_size",446,5,0.834024514811032,0.926380262138776,"baseline"
+"avg_interaction + avg_interest_similarity + avg_structural_redundancy + avg_number_exposures + mean_reciprocity + mean_retweeting_inertia + log_root_followers + log_time_span + log_size + embed_1 + embed_2 + embed_3 + embed_4 + embed_5",446,5,0.878870162297129,0.939864757589216,"baseline_plus_embedding"
